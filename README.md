@@ -18,9 +18,12 @@ NEXT JS application with Next authentication (google provider).
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 
-**
-How to Run:**
+
+**How to Run:****
  1. npm install (install all the package).
  2. create .env file that contains goole api and mongoose uri connections.
  3. npm run dev .
+
+Note:
+_Things used nextauth.js , React, NextJs serverless api, mongo db._
  
