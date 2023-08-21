@@ -1,6 +1,11 @@
 NEXT JS application with Next authentication (google provider).
 
 <img
+  src="https://github.com/vamsi-krishna-mishran/NEXT/blob/main/Screenshot%202023-08-21%20195352.png"
+  alt="Sample Snapshot1"
+  title="Snapshot1"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+<img
   src="https://github.com/vamsi-krishna-mishran/NEXT/blob/main/Screenshot%202023-08-21%20194859.png"
   alt="Sample Snapshot1"
   title="Snapshot1"
